@@ -1,4 +1,4 @@
-# swipe_to_lock_and_sleep-flutter
+# swipe to lock and sleep-flutter
 
 This is demo chat screen. You can add message to the sender side by simply pressing the send button and to add message to the receiver side, you have to long press the same send button.
 
