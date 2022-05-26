@@ -1,16 +1,10 @@
 # swipe_to_lock_and_sleep
 
-A new Flutter project.
+This is demo chat screen. You can add message to the sender side by simply pressing the send button and to add message to the receiver side, you have to long press the same send button.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/170458111-d1c0d944-54c7-44c4-952d-cd45cea900f5.gif" >
+</p>
